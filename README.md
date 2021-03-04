@@ -9,10 +9,10 @@ Este projeto está estruturado com os assuntos relacionados às estruturas condi
 
 # Atividade prática
 
-Na pasta [atividades](/atividades) temos a nossa segunda lista de exercício. Desenvolva, para cada item, um algoritmo correspondente.
+Na pasta [atividades](/atividades) temos a nossa terceira lista de exercício. Desenvolva, para cada item, um algoritmo correspondente.
 Os arquivos devem ser compiláveis (sem problemas para compilar) e atenderem ao solicitado em cada questão.
 
-Na pasta [respostas](/respostas) temos quatro respostas da nossa segunda lista de exercício. As questões a serem respondidas foram escolhidasd pelos alunos em nossa turma no Classroom. Para exemplificar, observe o código desenvolvido na Linguagem C para a questão `e03-4`.
+Na pasta [respostas](/respostas) temos três respostas da nossa segunda lista de exercício. As questões a serem respondidas foram escolhidasd pelos alunos em nossa turma no Classroom. Para exemplificar, observe o código desenvolvido na Linguagem C para a questão `e03-4`.
 
 ```
 #include <stdio.h>
